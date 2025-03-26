@@ -38,7 +38,7 @@ tasks:
 
   - action: move_path
     src: ./tmp/mercy-server/cfg/resources.cfg
-    dest: ./resources.cfg/
+    dest: ./resources.cfg
 
   - action: move_path
     src: ./tmp/mercy-server/resources
